@@ -125,7 +125,7 @@ Whether you're cleaning a CRM, scrubbing a lead list, or verifying user signups 
 ### 1 — Clone
 
 ```bash
-git clone https://github.com/your-username/numberverify.git
+git clone https://github.com/XONight/NumberVerify.git
 cd numberverify
 ```
 
@@ -437,8 +437,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full text.
 
 *If NumberVerify saved you time or money, a ⭐ on GitHub means the world.*
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/numberverify?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117)](../../stargazers)
-
+[![GitHub Stars](https://img.shields.io/github/stars/XONight/NumberVerify?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117)](../../stargazers)
 <br />
 
 </div>
